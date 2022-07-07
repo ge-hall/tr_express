@@ -1,0 +1,23 @@
+{
+  "name": "tr_express",
+  "version": "1.0.0",
+  "description": "Basic Express Server PoC",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ge-hall/tr_express.git"
+  },
+  "keywords": [
+    "express",
+    "jest"
+  ],
+  "author": "Andrew Ge-Hall",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ge-hall/tr_express/issues"
+  },
+  "homepage": "https://github.com/ge-hall/tr_express#readme"
+}
